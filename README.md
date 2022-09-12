@@ -8,17 +8,28 @@ Considero que estás cualidades potencian mis habilidades de liderazgo.
 Mi objetivo es evolucionar profesionalmente en un ambiente de trabajo armonioso, donde pueda enfrentar desafíos y continuar con mi desarrollo personal, priorizando siempre la colaboración y participación en equipo, teniendo como objetivo común alcanzar el máximo potencial en cada tarea!!
 
 Tech Skills: 💻
-** JavaScript
-**  HTML5
-**  CSS
-**  CSS Modules
-**  Bootstrap
-**  React
-**  Redux
-**  NodeJS
-**  Express
-** Sequelize & Postgres
-** React Native [learning]
+
+** JavaScript.
+
+**  HTML5.
+
+**  CSS.
+
+**  CSS Modules.
+
+**  Bootstrap.
+
+**  React.
+
+**  Redux.
+
+**  NodeJS.
+
+**  Express.
+
+** Sequelize & Postgres-Mysql
+** Material UI.
+** React Native [learnin.g]
 
 Contact 📩
 
