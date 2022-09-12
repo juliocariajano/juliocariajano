@@ -1,7 +1,10 @@
 ### Hi there Julio 👋
 
-Apasionado por la tecnología con habilidades como desarrollador Web Full Stack, además de estar en continua especialización, tengo conocimientos y experiencia en Redes y Telecomunicaciones - Mikrotik Certified MTCCNA - MTCRE - UBIQUITY, Videovigilacia, Ofimatica.
-Mi objetivo es evolucionar profesionalmente en un ambiente de trabajo armonioso, donde pueda enfrentar desafíos y continuar con mi desarrollo personal, priorizando siempre la colaboración y participación en equipo, resolución de problemas, comunicación y autonomía, teniendo como objetivo común alcanzar el máximo potencial en cada tarea!
+Soy apasionado por la tecnología con habilidades como Web Full Stack Developer, conocimientos en Javascript, React, Redux, Node.js, Express, Sequelize, Postgresql, además de estar en continua especialización, tengo conocimientos y experiencia en Redes y Telecomunicaciones - Mikrotik Certified MTCCNA - MTCRE - UBIQUITY, Videovigilacia, Ofimatica, Estadistica Hospitalaria..
+Soy una persona proactiva, de mente analítica, con grandes habilidades de comunicación y empatía.
+Mis experiencias me han fortalecido, tanto en la tolerancia, cómo en el autocontrol ante las adversidades, lo que favorece mi adaptación al cambio.
+Considero que estás cualidades potencian mis habilidades de liderazgo.
+Mi objetivo es evolucionar profesionalmente en un ambiente de trabajo armonioso, donde pueda enfrentar desafíos y continuar con mi desarrollo personal, priorizando siempre la colaboración y participación en equipo, teniendo como objetivo común alcanzar el máximo potencial en cada tarea!!
 
 <!--
 **juliocariajano/juliocariajano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
