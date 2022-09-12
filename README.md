@@ -1,6 +1,7 @@
-### Hi there Julio 👋
+### Hola soy Julio Cariajano 👋
+Full Stack Web Developer  | JavaScript | React | Redux | Bootstrap | Sequelize 🚀
 
-Soy apasionado por la tecnología con habilidades como Web Full Stack Developer, conocimientos en Javascript, React, Redux, Node.js, Express, Sequelize, Postgresql, además de estar en continua especialización, tengo conocimientos y experiencia en Redes y Telecomunicaciones - Mikrotik Certified MTCCNA - MTCRE - UBIQUITY, Videovigilacia, Ofimatica, Estadistica Hospitalaria..
+Soy apasionado por la tecnología tengo conocimientos en Javascript, React, Redux, Node.js, Express, Sequelize, Postgresql, además de estar en continua especialización, tengo conocimientos y experiencia en Redes y Telecomunicaciones - Mikrotik Certified MTCCNA - MTCRE - UBIQUITY, Videovigilacia, Ofimatica, Estadistica Hospitalaria..
 Soy una persona proactiva, de mente analítica, con grandes habilidades de comunicación y empatía.
 Mis experiencias me han fortalecido, tanto en la tolerancia, cómo en el autocontrol ante las adversidades, lo que favorece mi adaptación al cambio.
 Considero que estás cualidades potencian mis habilidades de liderazgo.
