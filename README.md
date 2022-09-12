@@ -7,6 +7,25 @@ Mis experiencias me han fortalecido, tanto en la tolerancia, cómo en el autocon
 Considero que estás cualidades potencian mis habilidades de liderazgo.
 Mi objetivo es evolucionar profesionalmente en un ambiente de trabajo armonioso, donde pueda enfrentar desafíos y continuar con mi desarrollo personal, priorizando siempre la colaboración y participación en equipo, teniendo como objetivo común alcanzar el máximo potencial en cada tarea!!
 
+Tech Skills: 💻
+** JavaScript
+**  HTML5
+**  CSS
+**  CSS Modules
+**  Bootstrap
+**  React
+**  Redux
+**  NodeJS
+**  Express
+** Sequelize & Postgres
+** React Native [learning]
+
+Contact 📩
+
+    LinkedIn: https://www.linkedin.com/in/juliocariajano/
+    E-mail: juliocariajano@gmail.com
+   
+
 <!--
 **juliocariajano/juliocariajano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
