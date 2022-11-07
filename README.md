@@ -4,18 +4,28 @@
   
 - 🔭 Full Stack Web Developer Jr  | JavaScript | React | Redux | Bootstrap | Sequelize 🚀
 
-Soy apasionado por la tecnología tengo conocimientos en Javascript, React, Redux, Node.js, Express, Sequelize, Postgresql, además de estar en continua especialización.
-Soy una persona proactiva, de mente analítica, con grandes habilidades de comunicación y empatía!
- **CEMEX as a Data Analyst for Pricing**
+I am passionate about technology, I have knowledge in Javascript, React, Redux, Node.js, Express, Sequelize, Postgresql, in addition to being in continuous specialization.
+I am a proactive person, with an analytical mind, with great communication and empathy skills!
 
-- 🌱 I’m currently learning **Machine Learning and Data Processing with Python**
+!
+
+- 🌱 I’m currently learning **React Native - Typescript**
 
 - 📫 Reach me at: **juliocariajano@gmail.com**
 
 - 📄 Know about my experiences in [my CV:)](https://drive.google.com/file/d/1s5ILJk90Q_D6mXBypDEJ7kj3NxkIrXHw/view?usp=sharing)
 
 - ⚡ Fun fact **When in highschool, I thought math was the worst and wanted to get away from it**
-
+- 📄 Skills
+- Node js
+- Expres js
+- Postgresql
+- Sequelize
+- Redux
+- React Native
+- Css
+- Material UI
+- Boostrap
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
