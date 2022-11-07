@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julio</h1>
 
-<center><div><img alt="Hi" src="https://i-acosta.com/img/gifs/Website-development-company-in-bhubaneswar.gif"></div></center>
+<center><div><img align="center" alt="Hi" src="https://i-acosta.com/img/gifs/Website-development-company-in-bhubaneswar.gif"></div></center>
   
 - 🔭 Full Stack Web Developer Jr  | JavaScript | React | Redux | Bootstrap | Sequelize 🚀
 
