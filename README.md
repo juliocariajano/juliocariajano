@@ -12,7 +12,7 @@ Soy una persona proactiva, de mente analítica, con grandes habilidades de comun
 
 - 📫 Reach me at: **juliocariajano@gmail.com**
 
-- 📄 Know about my experiences in [my CV:)](https://bit.ly/aboutdianalucia)
+- 📄 Know about my experiences in [my CV:)](https://drive.google.com/file/d/1s5ILJk90Q_D6mXBypDEJ7kj3NxkIrXHw/view?usp=sharing)
 
 - ⚡ Fun fact **When in highschool, I thought math was the worst and wanted to get away from it**
 
