@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julio</h1>
 
-<center><div><img alt="Hi" src="https://i.imgur.com/rq1dA6p.gif"></div></center>
+<center><div><img alt="Hi" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif"></div></center>
   
 - 🔭 Full Stack Web Developer Jr  | JavaScript | React | Redux | Bootstrap | Sequelize 🚀
 
