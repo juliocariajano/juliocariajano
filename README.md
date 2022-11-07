@@ -1,78 +1,30 @@
-### Hola soy Julio Cariajano 👋
-Full Stack Web Developer  | JavaScript | React | Redux | Bootstrap | Sequelize 🚀
+<h1 align="center">Hi 👋, I'm Julio</h1>
 
-Soy apasionado por la tecnología tengo conocimientos en Javascript, React, Redux, Node.js, Express, Sequelize, Postgresql, además de estar en continua especialización, tengo conocimientos y experiencia en Redes y Telecomunicaciones - Mikrotik Certified MTCCNA - MTCRE - UBIQUITY, Videovigilacia, Ofimatica, Estadistica Hospitalaria..
-Soy una persona proactiva, de mente analítica, con grandes habilidades de comunicación y empatía.
-Mis experiencias me han fortalecido, tanto en la tolerancia, cómo en el autocontrol ante las adversidades, lo que favorece mi adaptación al cambio.
-Considero que estás cualidades potencian mis habilidades de liderazgo.
-Mi objetivo es evolucionar profesionalmente en un ambiente de trabajo armonioso, donde pueda enfrentar desafíos y continuar con mi desarrollo personal, priorizando siempre la colaboración y participación en equipo, teniendo como objetivo común alcanzar el máximo potencial en cada tarea!!
+<center><div><img alt="Hi" src="https://i.imgur.com/rq1dA6p.gif"></div></center>
+  
+- 🔭 Full Stack Web Developer Jr  | JavaScript | React | Redux | Bootstrap | Sequelize 🚀
 
-Tech Skills: 💻
-** JavaScript.
-**  HTML5.
-**  CSS.
-**  CSS Modules.
-**  Bootstrap.
-**  React.
-**  Redux.
-**  NodeJS.
-**  Express.
-** Sequelize & Postgres-Mysql
-** Material UI.
-** React Native [learnin.g]
+Soy apasionado por la tecnología tengo conocimientos en Javascript, React, Redux, Node.js, Express, Sequelize, Postgresql, además de estar en continua especialización.
+Soy una persona proactiva, de mente analítica, con grandes habilidades de comunicación y empatía!
+ **CEMEX as a Data Analyst for Pricing**
 
-METODOLOGÍAS SCRUM
+- 🌱 I’m currently learning **Machine Learning and Data Processing with Python**
 
-PROYECTOS
+- 📫 Reach me at: **juliocariajano@gmail.com**
 
-Full Stack Web Developer - App Más Salud Agosto 12 - Septiembre 8 Proyecto grupal Henry Bootcamp, Buenos Aires, Argentina.
+- 📄 Know about my experiences in [my CV:)](https://bit.ly/aboutdianalucia)
 
-● Diseñar y desarrollar una App de Salud, cuyos usuarios son pacientes y médicos, los cuales pueden gestionar turnos, búsquedas de profesionales filtrados por especialidad y locación, entre sus funcionalidades se encuentran la de login con Google Login, respuesta automática vía mail con Nodemailer, un calendario implementado con @material-ui/pickers, pasarela de pago para MercadoPago. La estética de la misma fue llevada a cabo con Bootstrap y MUI.
-
-● Desarrollar la app usando para el Front React, Redux, CSS puro y Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize. https://app-clinica.vercel.app
-
-Full Stack Web Developer - Foods App Julio 15 - Agosto 4 Henry Bootcamp, Buenos Aires, Argentina. Proyecto individual
-
-● Diseñar y desarrollar una App de perros que incluía: búsquedas, filtrados, ordenamientos y creación ● Desarrollar la app usando para el Front React, Redux, CSS puro y Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize. https://pi-foods-julio-cariajano.vercel.app/
-
-Full stack web developer – search github user app ● Diseñar y desarrollar una App SPA (Single Page Application) que consume datos de API (lectura) de usuarios de github ● Búsqueda de usuários de Github y renderice sus propiedades Tecnologías utilizadas en Front: React, MATERIAL UI. https://usergithub.vercel.app/
-
-Full Stack Web Developer - Food Countries Junio 1 - Julio 7 Henry Bootcamp, Buenos Aires, Argentina. Proyecto individual
-
-● Diseñar y desarrollar una App de gastronomía que incluía: búsquedas, filtrados, ordenamientos y creación ● Desarrollar la app usando para el Front React, Redux, CSS puro y Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize.
-
-CURSOS REALIZADOS
-
-    Udemy - React JS Desde Cero! Hooks, Redux, Context, Firebase y más! - Udemy - React JS, Redux + ES6. Completo ¡De 0 a experto!
-    Mikrotik MTCNA Certified - MTCRE Certified – Ubiquitity (Telecomunicaciones).
-
-Experiencia Profesional
-
-    Ministerio de Salud Pública del Ecuador – Hospital Móvil No.2 (Dic 2017 – Agosto 2021) desempeñando actividades de análisis de datos estadísticos hospitalarios, soporte y mantenimiento de equipos tecnológico, mantenimiento de sistemas operativos, soporte de redes y telecomunicaciones.
-    Dts Redes y telecomunicaciones(2015-2017): Liderar el Equipo de soporte outsourcing
-
-EDUCACIÓN PROFESIONAL
-
-● Full Stack Web Developer. Henry Bootcamp. 700 horas de cursado teórico-práctico. 2022. Titulo obtenido: Desarrollador Full Stack Developer ● Ingeniería en Sistemas Informáticos Universidad Luis Vargas Torres. 2009 - 2014. Titulo obtenido: Ingeniero en Sistemas Informáticos
+- ⚡ Fun fact **When in highschool, I thought math was the worst and wanted to get away from it**
 
 
-Contact 📩
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/juliocariajano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Julio Cariajano" height="30" width="40" /></a>
 
-    LinkedIn: https://www.linkedin.com/in/juliocariajano/
-    E-mail: juliocariajano@gmail.com
-   
 
-<!--
-**juliocariajano/juliocariajano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/108784/javascript" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-Here are some ideas to get you started:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dianilu&show_icons=true&locale=en&layout=compact" alt="dianilu" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
