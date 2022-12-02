@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julio</h1>
 
-<img align="center" alt="Hi" src="https://es.bloggif.com/tmp/3414d8bfd015b729fe9430979379a342/text.gif?1667861958">
   
 - 🔭 Full Stack Web Developer Jr  | JavaScript | React | Redux | Bootstrap | Sequelize 🚀
 
