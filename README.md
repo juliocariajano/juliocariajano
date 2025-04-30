@@ -7,7 +7,7 @@
 
 Soy un profesional apasionado por la tecnología con sólida formación y certificaciones oficiales en SAP BTP (CAP, Integration Suite y ABAP). Mi experiencia combina el desarrollo backend con tecnologías modernas como Node.js y JavaScript, y la implementación de soluciones SAP empresariales en la nube.
 
-Actualmente, imparto formación del Módulo de Base Técnica para la formación en SAP BTP ey diseño laboratorios prácticos para capacitar a nuevos talentos en el ecosistema SAP.
+Actualmente, imparto formación del Módulo de Base Técnica cono conocimientos de Universal Id, gestion de contraseñas, encriptacion BGP, Xpath, OData, para la formación en SAP BTP y diseño laboratorios prácticos para capacitar a nuevos talentos en el ecosistema SAP.
 
 ---
 
